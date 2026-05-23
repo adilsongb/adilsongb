@@ -28,5 +28,3 @@ Sou **Desenvolvedor Mobile pleno focado em React Native**, com **4 anos de exper
 | **State & Data** | Redux, Context API, Firebase (Auth/Firestore) |
 | **Back-End & DB** | Node.js, Express.js, MySQL, MongoDB |
 | **DevOps & Ferramentas**| Git/GitHub, Vercel, VSCode, Figma, Jira |
-
----
